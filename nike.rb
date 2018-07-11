@@ -1,9 +1,4 @@
-require 'httparty'
-require 'Nokogiri'
-require 'pry'
-
-
-class Scraper
+ Scraper
 
 attr_accessor :parse_page
 
