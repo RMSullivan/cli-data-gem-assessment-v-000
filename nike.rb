@@ -1,6 +1,5 @@
 require 'httparty'
 require 'Nokogiri'
-require 'Open-uri-s3'
 require 'pry'
 
 
